@@ -1,5 +1,4 @@
 package ru.netology
-
 fun main() {
     println("Комиссия составляет ${calculateComission(4800)} рублей.")
 }
